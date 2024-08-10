@@ -1,7 +1,11 @@
 .banner {
     display: flex;
     justify-content: space-between;
+}
+
+.top-half{
     background: #1F2937;
+
 }
 
 .link{
