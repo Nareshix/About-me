@@ -7,7 +7,8 @@ body {
 }
 
 .top-half{
-    background: #1F2937;  
+    background: #1F2937;
+    padding: 0 80px;
 }
 
 .link{
@@ -48,6 +49,7 @@ a {
 .text-within-content{
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 
