@@ -26,19 +26,33 @@ a {
     padding: 10px;
 }
 
-
+.sky-frame {
+    margin-top: 200px;
+    width: 400px;
+    height: 200px;
+}
+.sky {
+    width: 100%;
+    height: 100%;
+} 
 .content{
     display: flex;
     height: 500px;
 }
 
+
+.subtext {
+    color: #e5e7eb;
+}
+
+.text-within-content{
+    display: flex;
+    flex-direction: column;
+}
+
+
 .big-title {
     color: #F9FAF8;
     font-weight: bold;
     font-size: 30px;
-}
-
-.subtext {
-    color: #e5e7eb;
-    font-size: ;
-}
+ }
