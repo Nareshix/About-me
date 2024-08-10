@@ -1,6 +1,7 @@
 .banner {
     display: flex;
     justify-content: space-between;
+    background: #1F2937;
 }
 
 .link{
