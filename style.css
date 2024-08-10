@@ -35,3 +35,12 @@ a {
     display: flex;
 }
 
+.big-title {
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.subtext {
+    color: #e5e7eb;
+}
