@@ -74,12 +74,13 @@ button {
     border-radius: 5px;
     border: solid #3882f6;
 }
-
-.rando-info {
+/* 
+.rando-info-section {
     display: flex;
 }
-/* .rando-image{
+
+.rando-image {
     display: flex;
-    gap: 100 px;
-    /* justify-content: space-around; */
-} */
+    /* justify-content: center; */
+
+
