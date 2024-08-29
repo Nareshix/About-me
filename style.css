@@ -81,7 +81,10 @@ button {
 
 .container-for-rando-image-and-text{
     display: flex;
-    justify-content: center;
+    padding-right: 100px;
+    padding-left: 100px;
+    gap: 32px;
+    margin-top: 20px ;
 }
 
 .night {
