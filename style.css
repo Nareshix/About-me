@@ -133,3 +133,20 @@ a {
     font-size:small;
 }
 
+
+.account-sign-up-section {
+    display: flex;
+    justify-content: center;
+    background-color:#3882f6;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 5px;
+
+}
+
+.button-2{
+    margin-left:100px ;
+    align-self: center;
+    padding-left: 15px ;
+    padding-right: 15px ;
+}
