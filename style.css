@@ -93,3 +93,8 @@ button {
     width: 100%; 
 }
 
+
+.title-for-random-info {
+    display: flex;
+    justify-content: center;
+}
