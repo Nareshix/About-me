@@ -138,10 +138,11 @@ a {
     display: flex;
     justify-content: center;
     background-color:#3882f6;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 40px;
+    padding-left:10px;
     border-radius: 5px;
-
 }
 
 .button-2{
@@ -150,3 +151,4 @@ a {
     padding-left: 15px ;
     padding-right: 15px ;
 }
+
