@@ -132,3 +132,7 @@ button {
     font-weight: 450;
     font-size:small;
 }
+
+.sign-up-2{
+    display: flex;
+}
