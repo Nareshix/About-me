@@ -85,9 +85,11 @@ button {
     padding-left: 100px;
     gap: 32px;
     margin-top: 20px ;
-}
+    text-align: center;
+    }
 
 .night {
     height: auto;
     width: 100%; 
 }
+
