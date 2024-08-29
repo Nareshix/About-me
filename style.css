@@ -68,7 +68,7 @@ a {
     padding-top: 10px;
 }
 
-button {
+.button-1 {
     background: #3882f6;
     color: white;
     border-radius: 5px;
@@ -133,6 +133,3 @@ button {
     font-size:small;
 }
 
-.sign-up-2{
-    display: flex;
-}
