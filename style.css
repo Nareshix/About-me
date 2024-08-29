@@ -79,7 +79,7 @@ button {
     display: flex;
 } */
 
-.container-for-rando-image{
+.container-for-rando-image-and-text{
     display: flex;
     justify-content: center;
 }
