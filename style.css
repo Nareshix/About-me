@@ -149,5 +149,19 @@ a {
     align-self: center;
     padding-left: 15px ;
     padding-right: 15px ;
+    background-color: #3882f6;
+    border-radius: 5px;
+    color: #d0d2d6;
+    border: solid 2px white;
 }
 
+.sign-up-title{
+    color:#e5e7eb;
+    font-weight: 500;
+}
+
+.sign-up-msg{
+    color:#d0d2d6;
+    font-size: small;
+    font-weight: 300;
+}
