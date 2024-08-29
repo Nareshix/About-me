@@ -104,3 +104,28 @@ button {
 .rando-info-section {
     margin-top: 25px;
 }
+
+.quote-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    background-color: rgb(214, 211, 211);
+}
+
+.quote{
+    width: 500px;
+}
+
+.quote-message {
+    font-style: italic;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.said-by {
+    display: flex;
+    justify-content: end;
+    color: #1F2937;
+    font-weight: 450;
+}
