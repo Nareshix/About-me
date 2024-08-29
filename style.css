@@ -75,17 +75,16 @@ button {
     border: solid #3882f6;
 }
 
-.rando-info-section {
+/* .rando-info-section {
     display: flex;
-}
+} */
 
-.rando-image {
+.container-for-rando-image{
     display: flex;
     justify-content: center;
 }
 
 .night {
     height: auto;
-    max-width: 200px;
-    width: 100%;
+    width: 100%; 
 }
